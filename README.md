@@ -1,0 +1,1 @@
+Nice video: [Jason Yadlovski - 🚨 UPDATED 2024 🚨 How to Export MARKERS in DaVinci Resolve 18.6.5 (& Make YouTube Chapters)](https://www.youtube.com/watch?v=Qjh2WxA7W8E)

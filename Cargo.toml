@@ -1,0 +1,11 @@
+[package]
+name = "timeline_chapters"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eyre = "0.6"
+color-eyre = "0.6"
+clap = { version = "4.0", features = ["derive"] }
+csv = "1.2"
+serde = { version = "1.0", features = ["derive"] }
