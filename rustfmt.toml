@@ -1,0 +1,3 @@
+# Rustfmt configuration
+imports_granularity = "Item"
+group_imports = "One"
