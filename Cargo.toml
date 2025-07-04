@@ -2,6 +2,11 @@
 name = "timeline_chapters"
 version = "0.1.0"
 edition = "2021"
+description = "Convert timeline CSV files to YouTube chapter timecodes"
+license = "MPL-2.0"
+repository = "https://github.com/TeamDman/timeline-chapters"
+keywords = ["csv", "youtube", "timecode", "video", "chapters"]
+categories = ["command-line-utilities", "multimedia"]
 
 [dependencies]
 eyre = "0.6"
